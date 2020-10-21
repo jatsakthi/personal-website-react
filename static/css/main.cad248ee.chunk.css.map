@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,kGAAuE,CACvE,wBAAyB,CACzB,qBAAsB,CACtB,mBAAoB,CACpB,qBACF","file":"main.cad248ee.chunk.css","sourcesContent":["body {\n  background: url(\"./res/coffee-apple.jpg\") no-repeat center center fixed;\n  -webkit-background: cover;\n  -moz-background: cover;\n  -o-background: cover;\n  background-size: cover;\n}\n"]}
