@@ -15,10 +15,10 @@ function App() {
     <Fragment>
       {/* css baseline helps remove margin and padding of all the components */}
       <CssBaseline>
-        <Route exact path="/" component={Home} />
-        <Route path="/resume" component={Resume} />
-        <Route path="/portfolio" component={Portfolio} />
-        <Route path="/contact" component={Contact} />
+        <Route exact path="/personal-website-react/" component={Home} />
+        <Route path="/personal-website-react/resume" component={Resume} />
+        <Route path="/personal-website-react/portfolio" component={Portfolio} />
+        <Route path="/personal-website-react/contact" component={Contact} />
       </CssBaseline>
     </Fragment>
   );
